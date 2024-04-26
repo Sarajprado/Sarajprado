@@ -1,11 +1,7 @@
 ### Olá, me chamo Sara Prado
  Cai de paraquedas na programação e me apaixonei!
 
-Programadora com conhecimentos em HTML, CSS, Python e MySQL, focado em desenvolvimento backend. 
 
-- 🔭 Estudande de Desenvolvimento Back-end
-- 🌱 Estudando Python e Java
-- 😄 Pronouns: ela/dela
 
 
 <div>
