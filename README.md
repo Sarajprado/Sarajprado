@@ -12,7 +12,6 @@ Programadora com conhecimentos em HTML, CSS, Python e MySQL, focado em desenvolv
 
 <img align="right" height="" src=""  />
 
-
 <div>
    <a href="https://github.com/Sarajprado">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sarajprado&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
